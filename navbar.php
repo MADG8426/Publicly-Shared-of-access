@@ -55,7 +55,7 @@
               <li><a href="#">Drop Down 4</a></li>
             </ul>
           </li> -->
-          <li><a href="<?php echo $base_url.'home.php#contact';?>">Contact</a></li>
+<!--           <li><a href="<?php echo $base_url.'home.php#contact';?>">Contact</a></li> -->
         </ul>
       </nav><!-- .navbar -->
 
